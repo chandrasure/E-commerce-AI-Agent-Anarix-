@@ -30,7 +30,7 @@ Anarix is an AI-powered agent that answers natural language questions about e-co
 
 | Component       | Tech Used                            |
 |----------------|--------------------------------------|
-| Language Model  | Local LLM (e.g., Llama3, Mistral) or Gemini 2.5 API |
+| Language Model  | Local LLM Gemini API |
 | Backend         | Python, FastAPI                      |
 | Database        | SQLite / PostgreSQL (via SQLAlchemy) |
 | Visualizations  | Matplotlib / Plotly                  |
