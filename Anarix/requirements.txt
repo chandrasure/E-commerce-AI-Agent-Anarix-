@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pandas
+matplotlib
+seaborn
+plotly
+python-dotenv
+httpx
+streamlit 
